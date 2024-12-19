@@ -47,5 +47,15 @@
       "text": "Awesome post!",
       "postId": "5"
     }
+  ],
+  "Todos": [
+    {
+      "Morning": "revise",
+      "afternoon": "Classes"
+    },
+    {
+      "Morning": "Dom assignment",
+      "afternoon": "Classes live"
+    }
   ]
 }
