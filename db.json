@@ -1,5 +1,146 @@
 {
-  "users":[
-    
+  "users":[],
+  "products":[
+    {"name":"Winter Jacket",
+     "discription":"Women's warm yet stylish long-Coat",
+     "stock":15,
+       "price":"$120",
+       "image":"./Assests/Images/project-vii.jpeg",
+     "id":1
+    },
+    {
+      "name":"Sweater",
+     "discription":"Women's warm yet stylish beige Sweater",
+     "stock":35,
+       "price":"$180",
+       "image":"./Assests/Images/project-x.jpeg",
+     "id":2
+   
+    },
+    {
+      "name":"Women's puffer Jacket",
+     "discription":"Women's warm stylish jacket",
+     "stock":10,
+       "price":"$220",
+       "image":"./Assests/Images/puffer.jpg",
+     "id":3
+   
+    },
+    {
+       "name":"Winter's Cord-set",
+       "discription":"Women's stylish cords",
+       "stock":15,
+       "price":"$120",
+       "image":"./Assests/Images/cord.jpg",
+       "id":4
+     },
+    {
+      "name":" Women's Black Coat",
+     "discription":"Women's warm yet stylish Coat",
+     "stock":15,
+       "price":"$1209",
+       "image":"./Assests/Images/project-vi.webp",
+     "id":5
+   
+    },
+    {
+      "name":"Women's blue fur jacket",
+     "discription":"Women's warm yet stylish jacket",
+     "stock":10,
+       "price":"$150",
+       "image":"./Assests/Images/project-ix.webp",
+     "id":6
+   
+    },
+    {
+      "name":"Long coat",
+     "discription":"Man & Women's warm yet stylish coats",
+     "stock":8,
+       "price":"$1600",
+       "image":"./Assests/Images/project-viii.jpg",
+     "id":7
+   
+    },
+    {
+      "name":"Winter Dresses",
+     "discription":"Women's warm yet stylish Dress",
+     "stock":15,
+       "price":"$220",
+       "image":"./Assests/Images/woolen dress.jpg",
+     "id":8
+   
+    },
+    {
+      "name":"Boots",
+     "discription":"Women's warm yet stylish boots",
+     "stock":5,
+       "price":"$20",
+       "image":"./Assests/Images/project-iii.webp",
+     "id":9
+   
+    },
+    {
+      "name":"Drrama Boots",
+     "discription":"Women's warm boots",
+     "stock":15,
+       "price":"$120",
+       "image":"./Assests/Images/project-ii.jpeg",
+     "id":10
+   
+    },
+    {
+      "name":"White shoes",
+     "discription":"Women's shoes",
+     "stock":15,
+       "price":"$89",
+       "image":"./Assests/Images/white shoes.jpg",
+     "id":11
+   
+    },
+    {
+      "name":"Winter gloves",
+     "discription":"Women's warm yet stylish gloves",
+     "stock":15,
+       "price":"$12",
+       "image":"./Assests/Images/full gloves.jpg",
+     "id":12
+   },
+    {
+      "name":"Winter gloves",
+     "discription":"Women's warm yet stylish gloves",
+     "stock":15,
+       "price":"$12",
+       "image":"./Assests/Images/black gloves.jpg",
+     "id":13
+ 
+    },
+    {
+      "name":"Winter gloves",
+     "discription":"Women's warm yet stylish gloves",
+     "stock":15,
+       "price":"$12",
+       "image":"./Assests/Images/black gloves1.jpg",
+     "id":14
+ 
+    },
+    {
+      "name":"Winter gloves",
+     "discription":"Women's warm yet stylish gloves",
+     "stock":15,
+       "price":"$12",
+       "image":"./Assests/Images/red gloves.jpg",
+     "id":15
+ 
+    },
+    {
+      "name":"Winter dresses",
+     "discription":"Women's warm yet stylish Dress",
+     "stock":15,
+       "price":"$12",
+       "image":"./Assests/Images/yellow dress.webp",
+     "id":16
+ 
+    }
   ]
+  
 }
